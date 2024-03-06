@@ -48,8 +48,10 @@ These are the steps to perform testing on the Genee HealthCare website:
 
 pageobjects/page.js
 - This file is used to open genie healthcare web page "https://www.geniehealthcare.com/#"
+
 pageobjects/page.js
 - This file has functions of geniehealthCare page.
+
 test/specs/geneHealthCare.spec.js 
 - This spec file has testcases regarding open page,click on find contract in  Caregivers dropdown ,get job details from first row and validate its details.
 
